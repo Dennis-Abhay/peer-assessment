@@ -1,0 +1,21 @@
+.main{
+margin:auto;
+}
+.header ul{
+	list-style-type:none;
+	
+}
+.header li{
+	display:inline;
+	font-size:20px;
+	font-weight:bold;
+    padding-right:3%;
+}
+.header{
+	width:100%;
+	background:#00FFFF;
+	height:5em;
+}
+.navigation{
+    width:40%;
+}
